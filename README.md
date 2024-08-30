@@ -60,12 +60,17 @@ In this project, the Orders table serves as the primary dataset, containing key 
 
 ## Dashboard Description
 
+![dashboard of coffee sales analysis](https://github.com/PriyanshuG007/Coffee_Sales_Analysis_Using_Excel/blob/main/Dashboard_Screenshot.png?raw=true)
 
 This dashboard provides a comprehensive overview of coffee sales performance over time. It includes various visualizations that help analyze sales trends, customer behavior, and sales distribution across different countries and roast types.
 
 ### Key Metrics and Visualizations
 
 - **Sales Distribution Over Time**: A line chart shows sales trends over the years 2019 to 2022, broken down by roast type (Ara, Ex, Rob). This visualization helps identify seasonal patterns and overall sales growth.
+ 
 - **Total Sales by Country**: A bar chart displays the total sales for the top three countries: the United States, Ireland, and the United Kingdom. This provides a quick comparison of sales performance in different regions.
+  
 - **Top 5 Customers**: A table lists the top five customers by total sales, along with their purchase amounts. This information is valuable for identifying high-value customers and tailoring marketing efforts.
+ 
 - **Filters**: Slicers for Order Date, Size, Roast Type, and Loyalty Card allow users to filter the data and analyze specific segments. For example, users can view sales for a particular roast type or customer loyalty status.
+  
